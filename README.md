@@ -1,13 +1,12 @@
 #  Hi , I am Candela ! 
 
-# **Computer Engineering student** 
+# **Data engineer Junior / Computer Engineer student** 
 
   -  In my last year of the degree
   - Argentina - Buenos Aires
   - EN - SP
 
 
-### - Data Engineer Junior
 
 
 
